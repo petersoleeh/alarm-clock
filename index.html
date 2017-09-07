@@ -18,20 +18,29 @@
   </div>
   <div class="container">
     <div class="row">
-      <div class="col md 6">
+      <div class="col-md-6">
         <form action="" id="inputTime">
-          <div class="form-group">
+          <div class="form-group" class="box">
+            <h3>Set Alarm</h3>
             <label for="time">Enter Alarm Time</label>
             <input type="time" id="setAlarm" name="time">
           </div>
-          <button type="submit" name="button" id="setAlarm">Set Alarm</button>
+          <button type="submit" name="button" id="ssetAlarm" class="button">Set Alarm</button>
         </form>
-        <h2>Alarm Time</h2>
-        <div id="alarmTime"></div>
+      </div>
+      <div class="col-md-6">
+        <h3>Alarm Set Time</h3>
+        <h4 id="alarmTime"></h4>
+        <button type="submit" id="snooze" class="button">Snooze</button>
+        <button type="submit" id="dismiss" class="button">Dismiss</button>
       </div>
     </div>
   </div>
   <div id="output">
+    <audio controls>
+    <source src="assets/audio-files/alarm.mp3" type="audio/mp3">
+
+    </audio>
 
   </div>
   <link rel="stylesheet" href="build/css/vendor.css">
