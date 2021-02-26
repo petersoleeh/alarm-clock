@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-26T09:26:03.670Z" agent="5.0 (Windows)" etag="dpEzijkzepjTFDEKFhoJ" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-26T09:31:46.638Z" agent="5.0 (Windows)" etag="QeuXUMmlZ3ulP7FL2JE7" version="14.4.3" type="github">
   <diagram id="pfaJHHTp6QQMH2KvcKUB" name="Page-1">
-    <mxGraphModel dx="1483" dy="839" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="865" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -45,9 +45,6 @@
         <mxCell id="QOb43xEOl_D0wzUUbX27-12" value="WEB PORTAL" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="254" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sF3h5xSAVOobxSEjKl81-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;" edge="1" parent="1" source="QOb43xEOl_D0wzUUbX27-13" target="sF3h5xSAVOobxSEjKl81-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="QOb43xEOl_D0wzUUbX27-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="495" y="440" width="120" height="60" as="geometry" />
         </mxCell>
@@ -58,10 +55,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QOb43xEOl_D0wzUUbX27-21" value="Django" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="535" y="450" width="40" height="20" as="geometry" />
+          <mxGeometry x="535" y="442" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QOb43xEOl_D0wzUUbX27-22" value="PostgreSQL" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="535" y="470" width="40" height="20" as="geometry" />
+          <mxGeometry x="535" y="478" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="SWpALoQGDCKQkqJ6QlAJ-2" value="&lt;div&gt;React &lt;br&gt;&lt;/div&gt;&lt;div&gt;Web Framework&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="495" y="640" width="120" height="60" as="geometry" />
@@ -84,11 +81,8 @@
             <mxPoint x="307" y="559.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sF3h5xSAVOobxSEjKl81-4" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="330" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="sF3h5xSAVOobxSEjKl81-6" value="ENKETO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="650" y="350" width="40" height="20" as="geometry" />
+        <mxCell id="sF3h5xSAVOobxSEjKl81-6" value="Enketo" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="534" y="460" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
